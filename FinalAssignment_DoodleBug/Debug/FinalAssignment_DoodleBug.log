@@ -1,0 +1,11 @@
+﻿  Ants.cpp
+C:\Users\danie\source\repos\FinalAssignment_DoodleBug\FinalAssignment_DoodleBug\Ants.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Doodlebug.cpp
+C:\Users\danie\source\repos\FinalAssignment_DoodleBug\FinalAssignment_DoodleBug\Doodlebug.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalAssignment_DoodleBug.cpp
+  Organism.cpp
+  World.cpp
+C:\Users\danie\source\repos\FinalAssignment_DoodleBug\FinalAssignment_DoodleBug\World.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\FinalAssignment_DoodleBug\FinalAssignment_DoodleBug\World.cpp(150,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FinalAssignment_DoodleBug.vcxproj -> C:\Users\danie\source\repos\FinalAssignment_DoodleBug\Debug\FinalAssignment_DoodleBug.exe
